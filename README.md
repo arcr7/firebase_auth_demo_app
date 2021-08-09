@@ -1,4 +1,4 @@
-# chat_app
+# Firebase Auth App
 
 A new Flutter project.
 
